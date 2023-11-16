@@ -22,7 +22,7 @@ const Home = () => {
     <Header />
     <ContainerView>
       <ContainerTextos>
-        <Titulo>Boas vindas a Lacrei Saúde</Titulo>
+        <Titulo>Yaayyyy Boas vindas a Lacrei Saúde</Titulo>
         <Texto>
           Uma plataforma segura e acolhedora para comunidade LGBTQIAPN+
         </Texto>
