@@ -1,5 +1,5 @@
 import IConfiguracaoBotao from "./commons-interface-configuracao-botao";
-import { Botao } from "./commons-styles";
+import { Botao } from "./commons-styles.ts";
 import { useNavigate } from "react-router-dom";
 
 const BotaoNavegacao = (props: any) => {
